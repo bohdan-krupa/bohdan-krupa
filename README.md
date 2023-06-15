@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maksym, a full-stack developer based in	Ukraine :ua:	✨
+### Hi there 👋 I'm Maksym, a full-stack developer based in	Ukraine 🇺🇦	✨
 
 # What's going on 
 
