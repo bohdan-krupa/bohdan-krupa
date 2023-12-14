@@ -2,13 +2,13 @@
 
 # What's going on 
 
-- 👯 Highly interested to collaborate on EdTech / HealthTech / FoodTech project / FinTech / others with long-term period
+- 👯 Highly interested in collaborating on EdTech / HealthTech / FoodTech / FinTech / others with a long-term period
 - 💬 Ask me about Python, Node, AWS, Serverless architecture, FastAPI, Express, React, Vue, etc.
 - 😄 Pronouns: he/him
 
 My work so far 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksym-trushevych&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdan-krupa&theme=dark&show_icons=true)
 
 
 My Languages and tools
@@ -59,4 +59,4 @@ My Languages and tools
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 
 
-Things I enjoy to do besides codind: Reading 📚 Spinning :biking_woman: Volunteering :purple_heart:
+Things I enjoy to do besides coding: Reading 📚, spinning 🚴, volunteering 💚
