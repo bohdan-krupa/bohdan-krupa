@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bohdan, a full-stack developer based in	Ukraine 🇺🇦	✨
+### Hi there 👋 I'm Bohdan, a software engineer based in	Ukraine 🇺🇦	✨
 
 # What's going on 
 
