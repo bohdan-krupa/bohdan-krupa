@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Bohdan, a software engineer based in	Ukraine 🇺🇦	✨
+### Hi there 👋 I'm Bohdan, a CTO at [Xedrum IT Company](https://xedrum.com) based in Ukraine 🇺🇦	✨
 
-# What's going on 
+# What's going on
 
 - 👯 Highly interested in collaborating on EdTech / HealthTech / FoodTech / FinTech / others with a long-term period
-- 💬 Ask me about Python, Node, AWS, Serverless architecture, FastAPI, Express, React, Vue, etc.
+- 💬 Ask me about Python, Node, AWS, Serverless architecture, DevOps, FastAPI, Express, React, Vue, etc.
 - 😄 Pronouns: he/him
 
 My work so far 
@@ -59,4 +59,4 @@ My Languages and tools
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 
 
-Things I enjoy to do besides coding: Reading 📚, spinning 🚴, volunteering 💚
+Things I enjoy to do besides coding: reading 📚, spinning 🚴, volunteering 💚
