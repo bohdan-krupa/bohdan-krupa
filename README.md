@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bohdan, a CTO @ [Xedrum IT Company](https://xedrum.com) based in Ukraine 🇺🇦	✨
+### Hi there 👋 I'm Bohdan, a CTO @ [Xedrum IT Company](https://xedrum.com)	✨
 
 # What's going on
 
